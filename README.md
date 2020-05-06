@@ -1,6 +1,6 @@
 # NAME
 
-Date::Utility - A class that represents a datetime in various format
+ci-test - The wrapper to run circleCI test locally
 
 # SYNOPSIS
 
